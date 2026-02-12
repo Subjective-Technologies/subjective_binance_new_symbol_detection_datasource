@@ -1,4 +1,5 @@
 {
+  "description": "Discovers exchange symbols and refreshes per-symbol metadata to detect newly listed instruments.",
   "domainCategory": "Trading",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "New Symbol Detection",
-      "text": "Subjective datasource implementation for SubjectiveNewSymbolDetectionDataSource.",
+      "text": "Discovers exchange symbols and refreshes per-symbol metadata to detect newly listed instruments.",
       "image": {
         "src": "/subjective_binance_new_symbol_detection_datasource/icon.svg",
         "alt": "New Symbol Detection icon"
